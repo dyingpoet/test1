@@ -1,0 +1,22 @@
+# r-dev-lessons
+
+!SLIDE middle
+
+
+# Lessons Learned in Developing R Packages
+
+* * * * *
+
+<img src="images/sleepy.png" width=350 />
+
+## [Yihui Xie](http://yihui.name)
+
+Department of Statistics, Iowa State University  
+Computational Statistics working group 
+
+Nov 2, 2011 (i.e. 20111102)
+
+!NOTE
+
+<span style="font-size: 50%">(image from <http://interns.experience.com/>)</span>
+

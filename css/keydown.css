@@ -104,6 +104,10 @@ body {
       -webkit-box-pack: start;
       -ms-box-pack: start;
       box-pack: start; }
+      .keydown.deck-container .slide.full-background.grim-repo {
+        background-image: url(../images/grim-repo.jpg); }
+      .keydown.deck-container .slide.full-background.dragon {
+        background-image: url(../images/dragon.jpg); }
       .keydown.deck-container .slide.full-background h1 {
         display: inline;
         position: absolute;
